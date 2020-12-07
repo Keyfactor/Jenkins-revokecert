@@ -1,0 +1,8 @@
+{
+    "URL": {
+        "RevokeCertURL": "<revoke certificate API endpoint>"
+    },
+    "Auth": {
+        "APIAuthorization": "Basic <base64 username/password>"
+    }
+}
